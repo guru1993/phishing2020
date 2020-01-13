@@ -60,10 +60,11 @@ banner() {
 printf " __________.__                 __              __      __         __                 \n"
 printf " \______   \  | _____    ____ |  | __         /  \    /  \_____ _/  |_  ___________  \n"
 printf "  |    |  _/  | \__  \ _/ ___\|  |/ /  ______ \   \/\/   /\__  \\   __\/ __ \_  __ \ \n"
-printf "  |    |   \  |__/ __ \\  \___|    <  /_____/  \        /  / __ \|  | \  ___/|  | \/ \n"
+printf "  |    |Guru1993  |__/ __ \\  \___|    <  /_____/  \        /  / __ \ \  ___/|  | \/ \n"
 printf "  |______  /____(____  /\___  >__|_ \           \__/\  /  (____  /__|  \___  >__|    \n"
 printf "         \/          \/     \/     \/                \/        \/          \/        \n"                                                  \n"
-printf " Github :-https://github.com/guru1993/phishing2020.git                                   \n"                                   \n" 
+
+printf " Github :- https://github.com/guru1993/phishing2020.git                                   \n"                                   \n" 
 printf "\n"
 printf " Disclaimer :- We are not responsible for any Damage caused by our tool             \n"
 printf "\n"
