@@ -63,7 +63,7 @@ printf "  |    |  _/  | \__  \ _/ ___\|  |/ /  ______ \   \/\/   /\__  \\   __\/
 printf "  |    |   \  |__/ __ \\  \___|    <  /_____/  \        /  / __ \|  | \  ___/|  | \/ \n"
 printf "  |______  /____(____  /\___  >__|_ \           \__/\  /  (____  /__|  \___  >__|    \n"
 printf "         \/          \/     \/     \/                \/        \/          \/        \n"                                                  \n"
-printf " Github    -   https://github.com/guru1993/phishing2020.git                                   \n"                                   \n" 
+printf " Github :-https://github.com/guru1993/phishing2020.git                                   \n"                                   \n" 
 printf "\n"
 printf " Disclaimer :- We are not responsible for any Damage caused by our tool             \n"
 printf "\n"
